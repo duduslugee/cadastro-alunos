@@ -111,19 +111,10 @@ npm start
 
 
 ### 🖼️ Capturas de Tela
-Tela Principal
-
-![image](https://github.com/user-attachments/assets/e00350c4-385c-4bd0-be4b-54875ac1cbd5)
-
 
 Formulário de Cadastro/Edição
 
 ![image](https://github.com/user-attachments/assets/d96bcb2f-aaa7-41c9-a8e6-99e293f96e1f)
-
-
-Lista de Alunos
-
-![image](https://github.com/user-attachments/assets/306b534b-362e-4616-b9f4-c706f21da349)
 
 
 ### 📂 Estrutura do Projeto
@@ -160,9 +151,9 @@ cadastro-alunos/
 ### 🔧 Endpoints da API
 ```
 Método	  Endpoint	           Descrição
-GET	     /api/alunos	        Lista todos os alunos
-POST	     /api/alunos	        Cadastra um novo aluno
-PUT	     /api/alunos/{id}	  Atualiza um aluno
+GET	   /api/alunos	         Lista todos os alunos
+POST	   /api/alunos	         Cadastra um novo aluno
+PUT	   /api/alunos/{id}	     Atualiza um aluno
 DELETE	  /api/alunos/{id}	  Exclui um aluno
 ```
 
