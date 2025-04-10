@@ -58,7 +58,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/cadastro-alunos.git
+git clone [https://github.com/seu-usuario/cadastro-alunos.git](https://github.com/duduslugee/cadastro-alunos.git)
 cd cadastro-alunos
 ```
 
@@ -101,7 +101,7 @@ npm start
 4. O frontend estará rodando em http://localhost:3000.
 
    
-###🌐 Uso
+### 🌐 Uso
 1. Acesse o frontend em http://localhost:3000.
 2. Use o formulário para cadastrar um novo aluno preenchendo os campos: Nome, Telefone, Email e Endereço.
 3. Visualize os alunos cadastrados em cards na seção "Alunos Cadastrados".
@@ -110,7 +110,7 @@ npm start
 
 
 
-###🖼️ Capturas de Tela
+### 🖼️ Capturas de Tela
 Tela Principal
 ![image](https://github.com/user-attachments/assets/e00350c4-385c-4bd0-be4b-54875ac1cbd5)
 
@@ -123,7 +123,7 @@ Lista de Alunos
 ![image](https://github.com/user-attachments/assets/306b534b-362e-4616-b9f4-c706f21da349)
 
 
-###📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 ```
 cadastro-alunos/
 ├── backend/                    # Código do backend (Spring Boot)
@@ -154,14 +154,14 @@ cadastro-alunos/
 └── README.md
 ```
 
-###🔧 Endpoints da API
-Método	  Endpoint	          Descrição
-GET	      /api/alunos	        Lista todos os alunos
-POST	    /api/alunos	        Cadastra um novo aluno
-PUT	      /api/alunos/{id}	  Atualiza um aluno
+### 🔧 Endpoints da API
+Método	  Endpoint	           Descrição
+GET	     /api/alunos	        Lista todos os alunos
+POST	     /api/alunos	        Cadastra um novo aluno
+PUT	     /api/alunos/{id}	  Atualiza um aluno
 DELETE	  /api/alunos/{id}	  Exclui um aluno
 
-###🤝 Contribuição
+### 🤝 Contribuição
 1. Faça um fork do projeto.
 2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
 3. Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
