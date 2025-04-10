@@ -1,6 +1,6 @@
 # 📚 Cadastro de Alunos
 
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-darkgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-darkgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 Bem-vindo ao **Cadastro de Alunos**, um projeto que combina um backend em **Java com Spring Boot** e um frontend em **React** para gerenciar o cadastro de alunos. Este sistema permite criar, listar, editar e excluir alunos, com os dados armazenados em um banco **MongoDB**. A interface é moderna, responsiva e inclui validações, animações e notificações para uma melhor experiência do usuário.
 
