@@ -151,9 +151,9 @@ cadastro-alunos/
 ### 🔧 Endpoints da API
 ```
 Método	  Endpoint	           Descrição
-GET	   /api/alunos	         Lista todos os alunos
-POST	   /api/alunos	         Cadastra um novo aluno
-PUT	   /api/alunos/{id}	     Atualiza um aluno
+GET	  /api/alunos	           Lista todos os alunos
+POST	  /api/alunos	           Cadastra um novo aluno
+PUT	  /api/alunos/{id}	     Atualiza um aluno
 DELETE	  /api/alunos/{id}	  Exclui um aluno
 ```
 
